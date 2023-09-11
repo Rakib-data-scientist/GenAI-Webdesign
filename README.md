@@ -9,3 +9,5 @@
   * streamlit run app.py
 
 # UI : 
+![UI](https://github.com/Rakib-data-scientist/GenAI-Webdesign/assets/137823730/78b14f72-ddf9-4ba6-9763-2182e5276294)
+
