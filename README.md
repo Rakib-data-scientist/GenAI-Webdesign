@@ -10,11 +10,12 @@
 
 # UI : 
 1.
-![UI interface_page-0001](https://github.com/Rakib-data-scientist/GenAI-Webdesign/assets/137823730/5111f79d-f31d-41e9-bf0f-753c316ae3bd)
+![UI interface_page-0001](https://github.com/Rakib-data-scientist/GenAI-Webdesign/assets/137823730/a81d45b3-f917-4bc4-b793-5fe57956d439)
 2.
-![UI interface_page-0002](https://github.com/Rakib-data-scientist/GenAI-Webdesign/assets/137823730/2d52de91-8bc6-4f60-9ab6-5e75e75630dc)
+![UI interface_page-0002](https://github.com/Rakib-data-scientist/GenAI-Webdesign/assets/137823730/458b3e4b-e444-4d28-951d-11ba5c47ee79)
 3.
-![UI interface_page-0003](https://github.com/Rakib-data-scientist/GenAI-Webdesign/assets/137823730/905d7371-9fbc-41cb-b3f5-5b77e301247b)
+![UI interface_page-0003](https://github.com/Rakib-data-scientist/GenAI-Webdesign/assets/137823730/b3a7d586-2768-42a6-ab45-1cb456038291)
+
 
 
 
